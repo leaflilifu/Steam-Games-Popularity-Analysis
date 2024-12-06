@@ -15,7 +15,7 @@ We then utilized SQL to explore the dataset and define a "popularity" index for 
 
 Additionally, we compare data from 2019 and 2024 to evaluate the overall progress of the gaming industry. The report concludes with a summary of findings, challenges encountered, recommendations for future research, and references.
 
-## **Key findings include**:
+## **Key Finding**:
 
 **Popularity Definition:** We use metrics like owners, reviewers, CCU, and playtime to measure game's popularity. "Popular games" are defined as the top 1%, in line with industry norms.
 
