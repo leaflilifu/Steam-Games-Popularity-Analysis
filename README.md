@@ -1,6 +1,6 @@
 # Steam Games Popularity Analysis
 
-## Team Members:  
+## Team Members  
 - Lifu (Leaf) Li **(Team Leader)**
 - Bei Su  
 - Chenhui (Ryan) Shen 
@@ -15,7 +15,7 @@ We then utilized SQL to explore the dataset and define a "popularity" index for 
 
 Additionally, we compare data from 2019 and 2024 to evaluate the overall progress of the gaming industry. The report concludes with a summary of findings, challenges encountered, recommendations for future research, and references.
 
-## **Key Finding**:
+## **Key Finding**
 
 **Popularity Definition:** We use metrics like owners, reviewers, CCU, and playtime to measure game's popularity. "Popular games" are defined as the top 1%, in line with industry norms.
 
@@ -32,6 +32,6 @@ Additionally, we compare data from 2019 and 2024 to evaluate the overall progres
 **Emerging Trends (2019 vs. 2024):** The player base grew from 3.63 billion to 5.23 billion, with increased engagement driven by lower prices and better satisfaction. Positive reviews grew significantly, reflecting higher player satisfaction.
 
 
-## **Recommendations**:
+## **Recommendations**
 
 To drive future growth, developers should focus on high-potential genres like Action, Adventure, and RPG, which show strong appeal and engagement potential. A "quality over quantity" strategy, as demonstrated by top developers like Valve, can lead to long-term success. Leveraging Free-to-Play models or offering free trials can help build an initial player base, which can then be monetized through DLCs or in-game purchases. A well-timed, moderate DLC strategy also helps maintain player interest without overwhelming them. Improving multiplayer experiences in community-driven games can boost satisfaction, making these titles more competitive. Consistent quality across all releases is key to sustaining relevance in the highly competitive gaming market.
